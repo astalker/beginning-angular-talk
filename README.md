@@ -1,20 +1,10 @@
-title: Beginning Angular
-output: angular.html
-controls: true
-style: basic.css
-
---
 ## ![Angular JS](AngularJS-large.png) 
 
-## Beginning Angular JS and what we learned when using it
+### Beginning Angular JS and what we learned when using it
 
-```
-   
-   
-```
 
-## Alasdair Stalker @alasdairstalker
-## ![Airpoint](logo.gif) 
+### Alasdair Stalker @alasdairstalker
+### ![Airpoint](logo.gif) 
 
 --
 ### So what is Angular JS
@@ -159,6 +149,7 @@ The Scope binds the Model and the View together
 * They can inherit
 * Directives can create their own scope
 * Whenever the scope changes the view is updated
+
 --
 ### Views
 
@@ -168,6 +159,7 @@ A view is An HTML file or template presented to the user
 * HTML combined with Angular expressions
 * Automatic dirty checking in forms avoids model get and set
 * Can often tell you exactly what is meant to be happening
+
 --
 ### View - functions and variables
 
@@ -238,6 +230,7 @@ A piece of code that accomplishes a specific task
 * yearofmoo.com
 * github.com/angular/angular.js
 * ng-newsletter.com
+
 --
 ### Questions
 
